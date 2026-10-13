@@ -1,0 +1,6 @@
+{
+  "name": "فيسي برو",
+  "description": "تطبيق الدردشة والحالات المتقدم مع نظام حظر صارم ومكافحة برامج النسخ وطلبات الصداقة والإشعارات",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
